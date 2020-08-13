@@ -1,16 +1,15 @@
 #TITULO 1
-##TITULO 2
-######TITULO 6
+
 
 *TEXTO EN NEGRITA*
 _TEXTO EN CURSIVA_
-_ESTOS DOS SE *PUEDEN* COMBINAR_
+_ESTOS DOS SE **PUEDEN** COMBINAR_
 
-*Así
-*Se 
-*Pueden
-*Hacer 
-*Listas
+* Así
+* Se 
+* Pueden
+* Hacer 
+* Listas
 
 [Facebook de Javier](https://www.facebook.com/javiervargasreyes)
 
