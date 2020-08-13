@@ -22,6 +22,6 @@ Con el signo de mayor que
 Tabla 1 | Tabla 2
 --------|---------
 Contenido izq | Contenido der
-Contenido | Contenido
+Contenido | Contenidos
 
 
