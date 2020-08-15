@@ -16,6 +16,8 @@ _ESTOS DOS SE **PUEDEN** COMBINAR_
 
 ![Clubes de Ciencia México](https://www.clubesdeciencia.mx/static/theme/mx/logo10241024.png)
 
+![GIPH DE VIENTOS SAN PEDRO](VIENTOS-SAN-PEDRO.gif)
+
 Con el signo de mayor que
 >Se pueden hacer citas
 
